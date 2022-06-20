@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 63.136 47.5">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol id="icon-faviconOpenax" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="linear-gradient" x1="0.302" y1="0.5" x2="1.066" y2="0.5" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#004d81"/>
@@ -15,4 +16,5 @@
     <path id="Path_155" data-name="Path 155" d="M70.739,360.07a23.75,23.75,0,1,0,23.75,23.75A23.75,23.75,0,0,0,70.739,360.07Zm-.1,35.133c-6.043,0-10.943-5.272-10.943-11.776s4.9-11.777,10.943-11.777,10.942,5.273,10.942,11.777S76.684,395.2,70.641,395.2Z" transform="translate(1456.011 -311.07)" fill="url(#linear-gradient)"/>
     <path id="Path_156" data-name="Path 156" d="M111.063,360.07h15.048l23.292,47.5H133.569Z" transform="translate(1416.734 -311.07)" fill="url(#linear-gradient-2)"/>
   </g>
+  </symbol>
 </svg>
