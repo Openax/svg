@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.136" height="47.5" viewBox="0 0 63.136 47.5">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.136" height="47.5" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="linear-gradient" x1="0.302" y1="0.5" x2="1.066" y2="0.5" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#004d81"></stop>
-      <stop offset="0.305" stop-color="#024779"></stop>
-      <stop offset="0.773" stop-color="#083763"></stop>
-      <stop offset="1" stop-color="#0c2e57"></stop>
+      <stop offset="0" stop-color="#004d81"/>
+      <stop offset="0.305" stop-color="#024779"/>
+      <stop offset="0.773" stop-color="#083763"/>
+      <stop offset="1" stop-color="#0c2e57"/>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="0.043" y1="0.029" x2="1.043" y2="1.083" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#00458c"></stop>
-      <stop offset="1" stop-color="#1a96c3"></stop>
+      <stop offset="0" stop-color="#00458c"/>
+      <stop offset="1" stop-color="#1a96c3"/>
     </linearGradient>
   </defs>
   <g id="Group_916" data-name="Group 916" transform="translate(-1503 -49)">
-    <path id="Path_155" data-name="Path 155" d="M70.739,360.07a23.75,23.75,0,1,0,23.75,23.75A23.75,23.75,0,0,0,70.739,360.07Zm-.1,35.133c-6.043,0-10.943-5.272-10.943-11.776s4.9-11.777,10.943-11.777,10.942,5.273,10.942,11.777S76.684,395.2,70.641,395.2Z" transform="translate(1456.011 -311.07)" fill="url(#linear-gradient)"></path>
-    <path id="Path_156" data-name="Path 156" d="M111.063,360.07h15.048l23.292,47.5H133.569Z" transform="translate(1416.734 -311.07)" fill="url(#linear-gradient-2)"></path>
+    <path id="Path_155" data-name="Path 155" d="M70.739,360.07a23.75,23.75,0,1,0,23.75,23.75A23.75,23.75,0,0,0,70.739,360.07Zm-.1,35.133c-6.043,0-10.943-5.272-10.943-11.776s4.9-11.777,10.943-11.777,10.942,5.273,10.942,11.777S76.684,395.2,70.641,395.2Z" transform="translate(1456.011 -311.07)" fill="url(#linear-gradient)"/>
+    <path id="Path_156" data-name="Path 156" d="M111.063,360.07h15.048l23.292,47.5H133.569Z" transform="translate(1416.734 -311.07)" fill="url(#linear-gradient-2)"/>
   </g>
 </svg>
